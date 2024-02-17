@@ -41,7 +41,7 @@
 <p>Discover more about the fascinating characters that bring The Rising of The Shield Hero to life.<br>Each profile will provide a short information about the character.</p>
 
 <h3>⚔️ 4. Best Moments</h3>
-<img src="./img-readme/battles.png" alt="Battles section section" style="width:50%">
+<img src="./img-readme/bestMoments.png" alt="Best Moments section" style="width:50%">
 <p>The Best Moments section will highlight the most epic showdowns and moments in The Rising of the Shield Hero.<br>From The Shield Hero fights to most memorable moments.</p>
 
 <h3>🖼️ 5. Gallery</h3>
@@ -49,7 +49,7 @@
 <p>Explore the rich collection of images and artwork from The Rising of The Shield Hero in the Gallery.<br>From covers to anime moments, this section is a visual feast for fans.</p>
 
 <h3>☎️ 6. Contact</h3>
-<img src="./img-readme/credits.png" alt="Credits section" style="width:50%">
+<img src="./img-readme/credits.png" alt="Contact section" style="width:50%">
 <p>Check this section to contact us or just to ckeck the terms of use of this webpage.</p>
 
 <h3>👣 7. Footer</h3>

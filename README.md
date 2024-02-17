@@ -71,7 +71,7 @@
 </ul>
 
 <h3>📷 Images</h3>
-<p>All images have been taken from Internet (You can check the "Credits" on the footer for know the origin of the images used).</p>
+<p>All images have been taken from Internet (You can check the Credits on the footer for know the origin of the images used).</p>
 
 <h3>🎥 Videos</h3>
 All videos have been taken from YouTube.

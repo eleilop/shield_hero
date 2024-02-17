@@ -12,7 +12,7 @@
 
 <h2 id="introduction">🌟 Introduction</h2>
 <p>Project done by: Eloy Leiva López</p>
-<p>Free theme web project for the 2st evaluation of Markup Languages</p>
+<p>Free theme web project for the 2nd evaluation of Markup Languages</p>
 <p>February 2024</p>
 
 <h2 id="motivation">🔥 Motivation</h2>

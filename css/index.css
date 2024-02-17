@@ -3,11 +3,6 @@
 /********************************************/
 
 /****************************** FONTS ******************************/
-@font-face {
-    font-family: title;
-    src: url(../font/SabbathBlackOT-Regular.ttf);
-}
-
 nav, #hero, h1, footer {font-family: 'Times New Roman', Times, serif;}
 
 .text-justify {text-align: justify;}

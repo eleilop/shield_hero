@@ -49,7 +49,7 @@
 <p>Explore the rich collection of images and artwork from The Rising of The Shield Hero in the Gallery.<br>From covers to anime moments, this section is a visual feast for fans.</p>
 
 <h3>☎️ 6. Contact</h3>
-<img src="./img-readme/credits.png" alt="Contact section" style="width:50%">
+<img src="./img-readme/contact.png" alt="Contact section" style="width:50%">
 <p>Check this section to contact us or just to ckeck the terms of use of this webpage.</p>
 
 <h3>👣 7. Footer</h3>

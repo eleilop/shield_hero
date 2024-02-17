@@ -30,30 +30,37 @@
 
 <h3>🚀 1. Hero Section</h3>
 <img src="./img-readme/hero.png" alt="Hero section" style="width:50%">
+<img src="./img-readme/hero2.png" alt="Hero section" style="width:50%">
 <p>I have used a carousel of wallpapers of The Shield Hero on PC and Tablet and light novel covers on mobile.<br>Above it I have placed a Call to Action that directs us to the Synopsis section.</p>
 
 <h3>📖 2. Synopsis</h3>
 <img src="./img-readme/synopsis.png" alt="Synopsis section" style="width:50%">
+<img src="./img-readme/synopsis2.png" alt="Synopsis section" style="width:50%">
 <p>The Synopsis section provides a complete and concise narrative of the storyline.<br>From The Shield Hero beginnings to even the explanation of how he got betrayed,<br>this section will be the essential guide for newcomers and a refreshing review for veterans.</p>
 
 <h3>👤 3. Characters</h3>
 <img src="./img-readme/characters.png" alt="Characters section" style="width:50%">
+<img src="./img-readme/characters2.png" alt="Characters section" style="width:50%">
 <p>Discover more about the fascinating characters that bring The Rising of The Shield Hero to life.<br>Each profile will provide a short information about the character.</p>
 
 <h3>⚔️ 4. Best Moments</h3>
 <img src="./img-readme/bestMoments.png" alt="Best Moments section" style="width:50%">
+<img src="./img-readme/bestMoments2.png" alt="Best Moments section" style="width:50%">
 <p>The Best Moments section will highlight the most epic showdowns and moments in The Rising of the Shield Hero.<br>From The Shield Hero fights to most memorable moments.</p>
 
 <h3>🖼️ 5. Gallery</h3>
 <img src="./img-readme/gallery.png" alt="Gallery section" style="width:50%">
+<img src="./img-readme/gallery2.png" alt="Gallery section" style="width:50%">
 <p>Explore the rich collection of images and artwork from The Rising of The Shield Hero in the Gallery.<br>From covers to anime moments, this section is a visual feast for fans.</p>
 
 <h3>☎️ 6. Contact</h3>
 <img src="./img-readme/contact.png" alt="Contact section" style="width:50%">
+<img src="./img-readme/contact2.png" alt="Contact section" style="width:50%">
 <p>Check this section to contact us or just to ckeck the terms of use of this webpage.</p>
 
 <h3>👣 7. Footer</h3>
 <img src="./img-readme/footer.png" alt="Footer section" style="width:50%">
+<img src="./img-readme/footer2.png" alt="Footer section" style="width:50%">
 <p>Follow the official The Rising of The Shield Hero social networks so you don't miss the last detail.<br>From here you can access to the credits.</p>
 
 <h2 id="style">Style</h2>

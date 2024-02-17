@@ -1,5 +1,5 @@
 # THE RISING OF THE SHIELD HERO PROJECT 🛡️👑🗡️
-<p>Welcome nakamas!<br>This repository hosts the development of a website dedicated to this exciting anime and manga.<br>Here, we present a detailed description of the main sections it contains.</p>
+<p>Welcome otakus!<br>This repository hosts the development of a website dedicated to this exciting anime.<br>Here, we present a detailed description of the main sections it contains.</p>
 
 ## 📚 Index
 <ul>

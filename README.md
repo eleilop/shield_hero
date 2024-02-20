@@ -16,7 +16,7 @@
 <p>February 2024</p>
 
 <h2 id="motivation">🔥 Motivation</h2>
-<p>I have chosen the topic about The Rising of The Shield Hero because I really like anime in general ad I want to rewatch this one.</p>
+<p>I have chosen the topic about The Rising of The Shield Hero because I really like anime in general and I want to rewatch this one.</p>
 
 <h2 id="structure">🏗️ Structure</h2>
 <p>The website is divided into 7 sections:</p>
